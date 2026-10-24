@@ -8,7 +8,7 @@ shapes neuroinflammation and the gut–brain axis, combining animal models, in v
 systems, and human cohorts with multi-omics: Oxford Nanopore metagenomics and DNA
 methylation, and proteomics.
 
-**Research interests:** neuroinflammation · prenatal adversity · gut microbiome ·
+**Research interests:** neuroinflammation · early-life adversity · gut microbiome ·
 alcohol use disorder · epigenetics · multi-omics
 
 **Tools:** Python · Oxford Nanopore (Dorado, minimap2, modkit) · SLURM (CIACD/PUCRS)
