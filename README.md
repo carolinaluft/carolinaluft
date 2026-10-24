@@ -11,6 +11,6 @@ methylation, and proteomics.
 **Research interests:** neuroinflammation · early-life adversity · gut microbiome ·
 alcohol use disorder · epigenetics · multi-omics
 
-**Tools:** Python · Oxford Nanopore (Dorado, minimap2, modkit) · SLURM (CIACD/PUCRS)
+**Tools:** Python · Oxford Nanopore (Dorado, minimap2, modkit) 
 
 [Lattes](http://lattes.cnpq.br/1818257201084171) · [LinkedIn](https://www.linkedin.com/in/carolina-luft-51b637104/)
